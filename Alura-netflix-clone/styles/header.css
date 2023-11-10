@@ -1,0 +1,40 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+}
+
+.cabecalho__imagem {
+    width: 9.375rem;
+    height: 4.375rem;
+    background-image: url(../assets/logo_netflix.png);
+    background-repeat: no-repeat;
+    background-position: 4.125rem;
+
+
+}
+
+.cabecalho__texto{
+    font-size: 1rem;
+    color: var(--branco);
+    text-decoration: none;
+    
+
+
+}
+
+.cabecalho__imagem-lupa,
+.cabecalho__imagem-sino,
+.cabecalho__imagem-seta {
+    width: 1.25rem;
+}
+
+
+
+.cabecalho__icone {
+    display: flex;
+    padding-left: 49%;
+    gap:0.625rem ;
+    
+
+}

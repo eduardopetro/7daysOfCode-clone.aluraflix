@@ -1,0 +1,50 @@
+
+
+.banner__imagem{
+padding: 6.5em;
+width: 28.125rem;
+height: 12.5rem;
+padding-left:5rem ;
+}
+
+.banner__titulo{
+font-size: 1.25rem;
+color: var(--branco);
+position: absolute;
+bottom: 15.625rem;
+width: 50%;
+left: 5rem;
+}
+
+.button__banner{
+padding: 1em;
+padding-left: 3.8rem;
+
+
+
+}
+
+.button__assistir{
+padding: 0.625rem 2.813rem 0.625rem 2.5rem;
+font-size: 1.25rem;
+font-weight: 700;
+background-image: url(../assets/triangulo-direita.png);
+background-repeat: no-repeat;
+background-size: 2.188rem;
+background-position: 1.563rem;
+margin: 0.9em;
+
+}
+
+.button__informacoes{
+padding: 0.625rem 1.875rem 0.625rem 2.5rem;
+font-size: 1.188rem;
+background-image: url(../assets/informações.png);
+background-repeat: no-repeat;
+background-size: 1.25rem;
+font-weight: 700;
+background-position: 0.938rem;
+color: var(--branco);
+background-color: transparent;
+
+}

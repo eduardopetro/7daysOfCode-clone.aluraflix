@@ -1,0 +1,20 @@
+.direitos__reservados{
+padding-top: 1em;
+padding-bottom: 2.5em;
+
+}
+
+.button__descricao{
+margin-left:5.5em;
+padding: 10px 30px 10px 23px;
+color: gray;
+background: transparent;
+border: 1px solid gray;
+font-size: 13px;
+}
+
+.copyright{
+color: gray;
+padding-left: 70px;
+
+}

@@ -1,0 +1,27 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/trilho.css");
+@import url("styles/rodape.css");
+@import url("styles/direitos-reservados.css");
+
+
+:root{
+--branco:#FFFFFF;
+--cinza:#9C9EA6;
+}
+
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+background:url('./assets/banner\ 1-fotor-20231105193040.png');
+height: 20px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+

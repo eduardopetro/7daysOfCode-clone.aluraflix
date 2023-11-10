@@ -1,0 +1,62 @@
+/*  iamgems redes sociais*/
+
+.rodape__redes-sociais {
+    display: flex;
+    padding: 2em 4em;
+    align-items: center;
+    gap: 1.563rem;
+}
+
+.redes-sociais-facebook{
+    width: 1.25rem;
+    height: 1.688rem;
+    background-color: var(--branco);
+}
+
+.redes-sociais-instagram,
+.redes-sociais-twitter,
+.redes-sociais-youtube {
+    width: 1.875rem;
+    height: 1.875rem;
+
+}
+
+.instagram{
+    width: 1.875rem;
+    background-color: var(--branco);
+}
+
+/* texto*/
+
+.rodape{
+display: flex;
+justify-content: space-evenly;
+padding-right: 3.75rem;
+gap: 6.563rem;
+
+
+}
+
+.-animacao__hover:hover{
+    color: aquamarine;
+
+
+}
+
+
+.rodape__texto{
+font-size: 1.181rem;
+font-weight: 400;
+margin: 1em;
+color: var(--branco);
+
+
+
+}
+
+.rodape__texto:hover{
+    text-decoration: underline;
+}
+
+
+
